@@ -2,7 +2,6 @@ aiohttp
 aiodns
 beautifulsoup4
 cchardet
-dataclasses
 elasticsearch
 pysocks
 pandas>=0.23.0
